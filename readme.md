@@ -1,0 +1,1 @@
+TypeScript being a "Syntactic Superset" means that it shares the same base syntax as JavaScript, but adds something to it.
